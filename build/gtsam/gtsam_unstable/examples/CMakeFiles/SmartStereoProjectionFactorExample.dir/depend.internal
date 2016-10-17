@@ -294,6 +294,6 @@ gtsam/gtsam_unstable/examples/CMakeFiles/SmartStereoProjectionFactorExample.dir/
  ../gtsam/gtsam/slam/dataset.h
  ../gtsam/gtsam_unstable/slam/SmartStereoProjectionFactor.h
  ../gtsam/gtsam_unstable/slam/SmartStereoProjectionPoseFactor.h
- /home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/examples/SmartStereoProjectionFactorExample.cpp
+ /home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/examples/SmartStereoProjectionFactorExample.cpp
  gtsam/gtsam/config.h
  gtsam/gtsam/dllexport.h

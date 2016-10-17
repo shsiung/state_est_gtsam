@@ -2060,7 +2060,7 @@ vector
 gtsam_unstable/slam/SmartStereoProjectionFactor.h
 -
 
-/home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/examples/SmartStereoProjectionFactorExample.cpp
+/home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/examples/SmartStereoProjectionFactorExample.cpp
 gtsam/geometry/Pose3.h
 -
 gtsam/geometry/Cal3_S2Stereo.h

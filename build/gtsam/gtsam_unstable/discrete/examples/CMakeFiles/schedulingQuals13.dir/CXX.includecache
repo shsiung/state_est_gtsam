@@ -482,7 +482,7 @@ gtsam_unstable/discrete/Constraint.h
 gtsam/discrete/DiscreteKey.h
 -
 
-/home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/discrete/examples/schedulingQuals13.cpp
+/home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/discrete/examples/schedulingQuals13.cpp
 gtsam_unstable/discrete/Scheduler.h
 -
 gtsam/base/debug.h

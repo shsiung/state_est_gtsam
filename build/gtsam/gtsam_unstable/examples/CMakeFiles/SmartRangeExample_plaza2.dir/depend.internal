@@ -285,6 +285,6 @@ gtsam/gtsam_unstable/examples/CMakeFiles/SmartRangeExample_plaza2.dir/SmartRange
  ../gtsam/gtsam/sam/RangeFactor.h
  ../gtsam/gtsam/slam/BetweenFactor.h
  ../gtsam/gtsam/slam/PriorFactor.h
- /home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/examples/SmartRangeExample_plaza2.cpp
+ /home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/examples/SmartRangeExample_plaza2.cpp
  gtsam/gtsam/config.h
  gtsam/gtsam/dllexport.h

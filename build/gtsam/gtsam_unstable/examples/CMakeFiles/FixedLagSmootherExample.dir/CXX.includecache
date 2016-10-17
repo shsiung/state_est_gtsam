@@ -1874,7 +1874,7 @@ gtsam_unstable/nonlinear/FixedLagSmoother.h
 gtsam/nonlinear/ISAM2.h
 -
 
-/home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/examples/FixedLagSmootherExample.cpp
+/home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/examples/FixedLagSmootherExample.cpp
 gtsam_unstable/nonlinear/BatchFixedLagSmoother.h
 -
 gtsam_unstable/nonlinear/IncrementalFixedLagSmoother.h

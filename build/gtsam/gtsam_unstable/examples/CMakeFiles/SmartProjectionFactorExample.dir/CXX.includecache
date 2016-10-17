@@ -2032,7 +2032,7 @@ utility
 vector
 -
 
-/home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/examples/SmartProjectionFactorExample.cpp
+/home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/examples/SmartProjectionFactorExample.cpp
 gtsam/slam/SmartProjectionPoseFactor.h
 -
 gtsam/slam/dataset.h

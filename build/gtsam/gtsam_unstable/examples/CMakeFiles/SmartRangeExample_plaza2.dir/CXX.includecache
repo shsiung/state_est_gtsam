@@ -1936,7 +1936,7 @@ gtsam/nonlinear/NonlinearFactor.h
 gtsam/base/Testable.h
 -
 
-/home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/examples/SmartRangeExample_plaza2.cpp
+/home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/examples/SmartRangeExample_plaza2.cpp
 gtsam/geometry/Pose2.h
 -
 gtsam/inference/Symbol.h

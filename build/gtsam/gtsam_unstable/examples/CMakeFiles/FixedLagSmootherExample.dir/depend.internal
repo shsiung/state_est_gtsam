@@ -280,6 +280,6 @@ gtsam/gtsam_unstable/examples/CMakeFiles/FixedLagSmootherExample.dir/FixedLagSmo
  ../gtsam/gtsam_unstable/nonlinear/BatchFixedLagSmoother.h
  ../gtsam/gtsam_unstable/nonlinear/FixedLagSmoother.h
  ../gtsam/gtsam_unstable/nonlinear/IncrementalFixedLagSmoother.h
- /home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/examples/FixedLagSmootherExample.cpp
+ /home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/examples/FixedLagSmootherExample.cpp
  gtsam/gtsam/config.h
  gtsam/gtsam/dllexport.h

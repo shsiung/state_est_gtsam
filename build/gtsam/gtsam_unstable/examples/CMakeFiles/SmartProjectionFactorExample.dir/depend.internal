@@ -291,6 +291,6 @@ gtsam/gtsam_unstable/examples/CMakeFiles/SmartProjectionFactorExample.dir/SmartP
  ../gtsam/gtsam/slam/SmartProjectionPoseFactor.h
  ../gtsam/gtsam/slam/TriangulationFactor.h
  ../gtsam/gtsam/slam/dataset.h
- /home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/examples/SmartProjectionFactorExample.cpp
+ /home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/examples/SmartProjectionFactorExample.cpp
  gtsam/gtsam/config.h
  gtsam/gtsam/dllexport.h
