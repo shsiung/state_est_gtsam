@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/shsiung/Desktop/vi_gtsam/gtsam/tests
+# Build directory: /home/shsiung/Desktop/vi_gtsam/build/gtsam/tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+ADD_TEST(testExpressionFactor "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testExpressionFactor")
+ADD_TEST(testPCGSolver "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testPCGSolver")
+ADD_TEST(testSimulated2DOriented "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testSimulated2DOriented")
+ADD_TEST(testBoundingConstraint "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testBoundingConstraint")
+ADD_TEST(testSubgraphSolver "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testSubgraphSolver")
+ADD_TEST(testManifold "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testManifold")
+ADD_TEST(testNonlinearEquality "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testNonlinearEquality")
+ADD_TEST(testLie "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testLie")
+ADD_TEST(testGeneralSFMFactorB "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testGeneralSFMFactorB")
+ADD_TEST(testExtendedKalmanFilter "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testExtendedKalmanFilter")
+ADD_TEST(testSimulated3D "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testSimulated3D")
+ADD_TEST(testMarginals "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testMarginals")
+ADD_TEST(testGraph "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testGraph")
+ADD_TEST(testRot3Optimization "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testRot3Optimization")
+ADD_TEST(testIterative "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testIterative")
+ADD_TEST(testNonlinearISAM "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testNonlinearISAM")
+ADD_TEST(testPreconditioner "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testPreconditioner")
+ADD_TEST(testNonlinearFactorGraph "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testNonlinearFactorGraph")
+ADD_TEST(testDoglegOptimizer "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testDoglegOptimizer")
+ADD_TEST(testGaussianJunctionTreeB "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testGaussianJunctionTreeB")
+ADD_TEST(testSimulated2D "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testSimulated2D")
+ADD_TEST(testSerializationSLAM "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testSerializationSLAM")
+ADD_TEST(testSubgraphPreconditioner "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testSubgraphPreconditioner")
+ADD_TEST(testGradientDescentOptimizer "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testGradientDescentOptimizer")
+ADD_TEST(testNonlinearFactor "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testNonlinearFactor")
+ADD_TEST(testGaussianFactorGraphB "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testGaussianFactorGraphB")
+ADD_TEST(testNonlinearOptimizer "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testNonlinearOptimizer")
+ADD_TEST(testGaussianISAM "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testGaussianISAM")
+ADD_TEST(testGaussianBayesTreeB "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testGaussianBayesTreeB")
+ADD_TEST(testGaussianISAM2 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/tests/testGaussianISAM2")

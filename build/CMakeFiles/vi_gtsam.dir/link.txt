@@ -1,0 +1,1 @@
+/usr/bin/c++     -frounding-math -Wno-deprecated -O3 -msse -msse2 -O3 -DNDEBUG  -Wl,-rpath,. -L/home/shsiung/Desktop/vi_gtsam/build CMakeFiles/vi_gtsam.dir/src/vi_gtsam.cpp.o  -o vi_gtsam -rdynamic -ltbbmalloc -ltbb -lboost_filesystem -lboost_system -lgtsam -lboost_system -lgtsam 

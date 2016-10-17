@@ -1,0 +1,35 @@
+# CMake generated Testfile for 
+# Source directory: /home/shsiung/Desktop/vi_gtsam/gtsam/gtsam/geometry/tests
+# Build directory: /home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+ADD_TEST(testRot2 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testRot2")
+ADD_TEST(testStereoPoint2 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testStereoPoint2")
+ADD_TEST(testEssentialMatrix "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testEssentialMatrix")
+ADD_TEST(testSO3 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testSO3")
+ADD_TEST(testCal3Bundler "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testCal3Bundler")
+ADD_TEST(testCal3Unified "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testCal3Unified")
+ADD_TEST(testBearingRange "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testBearingRange")
+ADD_TEST(testCal3DS2 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testCal3DS2")
+ADD_TEST(testSerializationGeometry "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testSerializationGeometry")
+ADD_TEST(testPoint3 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testPoint3")
+ADD_TEST(testRot3 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testRot3")
+ADD_TEST(testPinholeSet "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testPinholeSet")
+ADD_TEST(testRot3Q "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testRot3Q")
+ADD_TEST(testRot3M "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testRot3M")
+ADD_TEST(testCalibratedCamera "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testCalibratedCamera")
+ADD_TEST(testUnit3 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testUnit3")
+ADD_TEST(testPoint2 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testPoint2")
+ADD_TEST(testSimpleCamera "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testSimpleCamera")
+ADD_TEST(testQuaternion "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testQuaternion")
+ADD_TEST(testCal3_S2 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testCal3_S2")
+ADD_TEST(testPinholeCamera "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testPinholeCamera")
+ADD_TEST(testPinholePose "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testPinholePose")
+ADD_TEST(testCyclic "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testCyclic")
+ADD_TEST(testTriangulation "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testTriangulation")
+ADD_TEST(testPose2 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testPose2")
+ADD_TEST(testPose3 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testPose3")
+ADD_TEST(testStereoCamera "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testStereoCamera")
+ADD_TEST(testCameraSet "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testCameraSet")
+ADD_TEST(testOrientedPlane3 "/home/shsiung/Desktop/vi_gtsam/build/gtsam/gtsam/geometry/tests/testOrientedPlane3")

@@ -1,0 +1,10 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/testOrientedPlane3.dir/testOrientedPlane3.cpp.o"
+  "testOrientedPlane3.pdb"
+  "testOrientedPlane3"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/testOrientedPlane3.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)
