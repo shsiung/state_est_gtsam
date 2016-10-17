@@ -133,7 +133,7 @@ int main(int argc, char** argv) {
     cout << imuss << "\n";
     graph->add(imu_factor);
 
-    if (imut > gpst) {
+    /*if (imut > gpst) {
     //                          cout << "11111111111\n";
         getline(GPSfile, gpsdata);
         stringstream gpsss(gpsdata);
@@ -143,7 +143,7 @@ int main(int argc, char** argv) {
                              Point3(x,y,z),
                              correction_noise);
         graph->add(gps_factor);
-    }
+    }*/
 
     prop_state = imu_preintegrated_ ->predict(prev_state, prev_bias);
     initial_values.insert(X(correction_count), prop_state.pose());
