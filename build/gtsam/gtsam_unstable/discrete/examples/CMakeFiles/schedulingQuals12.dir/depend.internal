@@ -43,6 +43,6 @@ gtsam/gtsam_unstable/discrete/examples/CMakeFiles/schedulingQuals12.dir/scheduli
  ../gtsam/gtsam_unstable/discrete/Domain.h
  ../gtsam/gtsam_unstable/discrete/Scheduler.h
  ../gtsam/gtsam_unstable/discrete/SingleValue.h
- /home/shsiung/Desktop/gtsam_state_est/vi_gtsam/gtsam/gtsam_unstable/discrete/examples/schedulingQuals12.cpp
+ /home/shsiung/Desktop/vi_gtsam/gtsam/gtsam_unstable/discrete/examples/schedulingQuals12.cpp
  gtsam/gtsam/config.h
  gtsam/gtsam/dllexport.h
